@@ -4,7 +4,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZzRG18&show_icons=true" />
 
 - 🔭 我正在准备找工作！
-- 🌱我目前正在学习Java、Spring、MySql ？
+- 🌱我目前正在学习：分布式微服务、Redis、消息队列 ？
 <p>
 <img src="https://img.shields.io/badge/-Vue.js-192133?style=flat&logo=vue.js&logoColor=white" alt="vue" /> 
 <img src="https://img.shields.io/badge/-JavaScript-192133?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript" /> 
