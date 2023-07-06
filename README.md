@@ -1,13 +1,16 @@
 
 ### 你好👋我是ZzRG
 
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZzRG18&show_icons=true" />
 
 - 🔭 我正在准备找工作！
 - 🌱我目前正在学习：分布式微服务、Redis、消息队列 ？
-####掌握技能：
+##掌握技能：
 <p>
 <img src="https://img.shields.io/badge/-Java-192133?style=flat&logo=redis&logoColor=white" alt="Java" /> 
+<img src="https://img.shields.io/badge/-Spring-192133?style=flat&logo=redis&logoColor=white" alt="Spring" /> 
+<img src="https://img.shields.io/badge/-SpringBoot-192133?style=flat&logo=redis&logoColor=white" alt="SpringBoot" />
 <img src="https://img.shields.io/badge/-MySQL-192133?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/-Redis-192133?style=flat&logo=redis&logoColor=white" alt="Redis" />
 <img src="https://img.shields.io/badge/-RocketMQ-192133?style=flat&logo=mysql&logoColor=white" alt="RocketMQ" /> 
