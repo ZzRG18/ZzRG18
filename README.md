@@ -5,13 +5,16 @@
 
 - 🔭 我正在准备找工作！
 - 🌱我目前正在学习：分布式微服务、Redis、消息队列 ？
+####掌握技能：
 <p>
+<img src="https://img.shields.io/badge/-Java-192133?style=flat&logo=redis&logoColor=white" alt="Java" /> 
+<img src="https://img.shields.io/badge/-MySQL-192133?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/-Redis-192133?style=flat&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/-RocketMQ-192133?style=flat&logo=mysql&logoColor=white" alt="RocketMQ" /> 
 <img src="https://img.shields.io/badge/-Vue.js-192133?style=flat&logo=vue.js&logoColor=white" alt="vue" /> 
 <img src="https://img.shields.io/badge/-JavaScript-192133?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript" /> 
 <img src="https://img.shields.io/badge/-css-192133?style=flat&logo=css3&logoColor=white" alt="css3" /> 
-<img src="https://img.shields.io/badge/-html5-192133?style=flat&logo=html5&logoColor=white" alt="html5" /> 
-<img src="https://img.shields.io/badge/-MySQL-192133?style=flat&logo=mysql&logoColor=white" alt="MySQL" /> 
-<img src="https://img.shields.io/badge/-Redis-192133?style=flat&logo=redis&logoColor=white" alt="Redis" /> 
+<img src="https://img.shields.io/badge/-html5-192133?style=flat&logo=html5&logoColor=white" alt="html5" />  
 </p>
 
 - 📫 如何联系我：heryzrg@163.com
